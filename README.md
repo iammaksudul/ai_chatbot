@@ -30,8 +30,9 @@ This project is an AI chatbot system designed for Fiverr sellers to generate pro
     ```
 
 3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
+pip install transformers
+pip install flask
+
     ```
 
 4. Run the application:
