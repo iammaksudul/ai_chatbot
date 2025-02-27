@@ -19,7 +19,7 @@ This project is an AI chatbot system designed for Fiverr sellers to generate pro
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/iammaksudul/ai_chatbot.git
+    git clone https://github.com/yourusername/ai_chatbot.git
     cd ai_chatbot
     ```
 
